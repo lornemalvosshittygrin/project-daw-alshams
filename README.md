@@ -17,3 +17,5 @@
 ## Todo
 * Make a template fact sheet
 * Recruit hebrew readers and data researchers.
+* Draw visual money trail.
+* Preliminary investigation targeting one or two settlements.
