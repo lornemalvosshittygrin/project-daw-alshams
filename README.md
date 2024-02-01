@@ -5,7 +5,7 @@
 * Understand how the constructions are being financed and who are the beneficiaries of the construction projects. How are contracts being fulfilled.
 
 ## Current Method
-* List most recently built settlemetns
+* List most recently built settlements.
 * Look up pipeline from tender to bid to bank.
 * Investments in banks to branch.
 * Companies that won bids.
